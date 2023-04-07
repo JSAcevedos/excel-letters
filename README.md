@@ -14,3 +14,16 @@ Z
 Output
 
 `26`
+
+Input
+
+```
+N
+26
+```
+
+Output
+
+`Z`
+
+For this example the program gets the letter 'L' or the letter 'N', this means that the program must convert from letters to a number in the 'L' case, or from numbers to letter in the case of 'N'.
